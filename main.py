@@ -1,6 +1,6 @@
 """
 CMPS 6610  Lab 1
-Yan Zhu and Yongbo Chen
+Group: Yan Zhu and Yongbo Chen
 """
 
 ### the only imports needed are here
